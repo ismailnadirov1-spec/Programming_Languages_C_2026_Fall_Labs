@@ -1,7 +1,7 @@
 /*
  * Lab 3, Task 1
- * Name: <your name>
- * Student ID: <your student ID>
+ * Name: Ismayil Nadirov
+ * Student ID: 251ADB088
  *
  * Implement array algorithms:
  *   - find minimum value
@@ -54,7 +54,7 @@ int main(void) {
 
 // Implement functions below
 int array_min(int arr[], int size) {
-    // TODO: return smallest element
+    //qardashim
     return 0; // placeholder
 }
 
